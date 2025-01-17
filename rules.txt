@@ -1,0 +1,13 @@
+<html>
+Game rules:<br/><br/>
+
+1. Play the mini game to earn coins<br/><br/>
+
+2. Purchase mystery boxes with your coins<br/><br/>
+
+3. If you purchase a mystery box, and you already have the animal that is revealed, then your animal is upgraded to the next level
+<br/><br/>
+4. The higher the level of the animal, the higher the rewards when winning the mini game<br/><br/>
+
+5. Objective of the game is to gain every type of animal <br/>
+</html>
